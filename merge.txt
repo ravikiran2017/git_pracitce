@@ -1,1 +1,5 @@
+<<<<<<< HEAD
   THIS IS BRANCH1  JAVA CODE
+=======
+THIS IS BRANCH2 PYTHON CODE
+>>>>>>> branch2
